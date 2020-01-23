@@ -1,0 +1,21 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "rest api for searching restaurant data",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "samuli romo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
